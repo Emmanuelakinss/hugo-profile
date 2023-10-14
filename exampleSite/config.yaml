@@ -120,7 +120,7 @@ params:
     intro: "Hi, my name is"
     title: "Emmanuel."
     subtitle: "I develop robots and AI"
-    content: "I am a robotics engineer who is on a mission to use technology to improve the lives and wellbeing of humans. I have gained vast experience in technological design through my studies and indusry experience."
+    content: "I am a robotics engineer who is on a mission to use technology to improve the lives and wellbeing of humans. I have gained vast experience in technological design through my studies and industry experience."
     image: /images/emm22.png
     bottomImage:
       enable: true
