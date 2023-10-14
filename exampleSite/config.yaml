@@ -173,7 +173,7 @@ params:
           enable: true
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: "I interned in the Azure CXP team in Dublin, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
       - job: "Software Developer Intern"
         company: "SAP"
@@ -236,7 +236,7 @@ params:
           name: "University of Bristol"
           url: "https://example.org"
         date: "2022 - 2023"
-        Grade: "Distinction"
+        gpa: "Distinction"
         content: |-
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -246,7 +246,7 @@ params:
           name: "Trinity College Dublin"
           url: "https://example.org"
         date: "2021 - 2022"
-        Grade: "Distinction"
+        grade: "Distinction"
         content: |-
           I co-authored two papers in the European Conference on Optical Communication and Optical Fibre Technology journal.
           
