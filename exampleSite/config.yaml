@@ -184,7 +184,7 @@ params:
           url: "https://example.com"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: I interned as a software developer for more than one year in Amazon.
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
@@ -293,8 +293,8 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
+      - title: In-House Robotics Development
+        content: My PhD project involves the development of an in-house robotic system to aid persons with dementia to live independently.
         image: /images/projects/profile.png
         featured:
           name: Demo
@@ -311,8 +311,8 @@ params:
           - icon: fab fa-twitter
             url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+      - title: IoRT-Based Ambient Assisted Living
+        content: Developed an Ambient Assisted Living environment with IoT devices and sensors with a robot as the figurehead.
         image: /images/projects/converter.jpg
         featured:
           name: Demo
@@ -324,16 +324,16 @@ params:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
+      - title: Digital Twin Modelling of an Optical Line System
+        content: Developed a digital twin of an optical line using machine learning.
         image: /images/projects/profile2.jpg
         featured:
           name: Demo V2
           link: https://hugo-profile-2.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Python"
+          - "Machine Learning"
+          - "Optical Comms"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/HugoProfileV2
