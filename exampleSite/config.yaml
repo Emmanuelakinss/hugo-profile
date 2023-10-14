@@ -133,7 +133,7 @@ params:
       newPage: false
     socialLinks:
       fontAwesomeIcons:
-        - icon: fab fa-google-scholar
+        - icon: fab fa-google
           url: https://example.com
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/emmanuel-akinrintoyo/
