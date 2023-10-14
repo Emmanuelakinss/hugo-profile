@@ -148,7 +148,7 @@ params:
     image: "/images/emm23.png"
     content: |-
       I am currently a PhD student at I-X, Imperial College London where I am exploring the use of robotics and AI to empower persons with limited functional independence such as demented patients to live independently in their homes.
-      I completed a bachelor's degree in computer and communications engineering, an MSc in Electronic Information Engineering and an MRes in Robotics and Autonomous Systems.
+      I completed a bachelor's degree in Computer and Communications engineering, an MSc in Electronic Information Engineering and an MRes in Robotics and Autonomous Systems.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -235,8 +235,8 @@ params:
         school:
           name: "University of Bristol"
           url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+        date: "2022 - 2023"
+        Grade: "Distinction"
         content: |-
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -245,25 +245,23 @@ params:
         school:
           name: "Trinity College Dublin"
           url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+        date: "2021 - 2022"
+        Grade: "Distinction"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
+          I co-authored two papers in the European Conference on Optical Communication and Optical Fibre Technology journal.
+          
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+            - Member of the entrepreneurship society. 
         featuredLink:
-          enable: true
+          enable: false
           name: "My academic record"
           url: "https://example.com"
-      - title: "High School"
+      - title: "BEng in Computer and Communications Engineering"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
+          name: "Technological University Dublin"
           url: "https://example.org"
-        GPA: "4.2 out of 5.0"
+        date: "2017 - 2021"
+        Grade: "First Class Honours"
         featuredLink:
           enable: true
           url: "https://example.com"
