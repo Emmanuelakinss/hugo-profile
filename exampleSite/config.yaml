@@ -121,7 +121,7 @@ params:
     title: "Emmanuel."
     subtitle: "I develop robots and AI"
     content: "I am a robotics engineer who is on a mission to use technology to improve the lives and wellbeing of humans. I have gained vast experience in technological design through my studies and indusry experience."
-    image: /hugo-profile/images/emimg11
+    image: /hugo-profile/images/emimg11.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
