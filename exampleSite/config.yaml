@@ -183,7 +183,7 @@ params:
           enable: true
           name: "View the project"
           url: "https://example.com"
-        content: "I interned in the Azure CXP team in Dublin, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: "I interned in the Azure CXP team in Dublin. I am currently working on a project that will be used to help people find the best way to get around the city."
 
       - job: "Software Developer Intern"
         company: "SAP"
