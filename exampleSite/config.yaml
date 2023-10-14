@@ -271,7 +271,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Kentfield scholarship
+      - title:  scholarship
         content: I solved all problems with optimal solution.
         url: https://example.com
         image: /images/achievment.jpg
