@@ -147,9 +147,8 @@ params:
     title: "About Me"
     image: "/images/emm23.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
-
       I am currently a PhD student at I-X, Imperial College London where I am exploring the use of robotics and AI to empower persons with limited functional independence such as demented patients to live independently in their homes. on a project that will be used to help people find the best way to get around the city.
+      I completed a bachelor's degree in computer and communications engineering, an MSc in Electronic Information Engineering and an MRes in Robotics and Autonomous Systems.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
