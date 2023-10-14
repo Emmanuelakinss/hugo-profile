@@ -139,9 +139,9 @@ params:
           url: https://www.linkedin.com/in/emmanuel-akinrintoyo/
         - icon: fab fa-github
           url: https://github.com/manny118
-      #customIcons:
-      #  - icon: /fav.png
-      #    url: "https://example.com"
+      customIcons:
+        - icon: /scholar.png
+          url: "https://example.com"
 
   # About
   about:
