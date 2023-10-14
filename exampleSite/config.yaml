@@ -252,9 +252,10 @@ params:
             - Member of the entrepreneurship society. 
             
         featuredLink:
-          enable: false
-          name: "My academic record"
-          url: "https://example.com"
+          enable: true
+          name: "Course promotion"
+          url: "https://www.youtube.com/watch?v=5MtW3tpd39E"
+          
       - title: "BEng in Computer and Communications Engineering"
         school:
           name: "Technological University Dublin"
@@ -262,7 +263,7 @@ params:
         date: "2017 - 2021"
         GPA: "First Class Honours"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
 
   # Publications
