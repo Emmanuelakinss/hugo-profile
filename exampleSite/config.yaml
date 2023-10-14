@@ -133,15 +133,13 @@ params:
       newPage: false
     socialLinks:
       fontAwesomeIcons:
-        - icon: fab fa-google
-          url: https://scholar.google.com/citations?user=xTBOtfcAAAAJ
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/emmanuel-akinrintoyo/
         - icon: fab fa-github
           url: https://github.com/manny118
       customIcons:
         - icon: /scholar.png
-          url: "https://example.com"
+          url: "https://scholar.google.com/citations?user=xTBOtfcAAAAJ"
 
   # About
   about:
