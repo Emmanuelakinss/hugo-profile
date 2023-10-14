@@ -147,7 +147,7 @@ params:
     title: "About Me"
     image: "/images/emm23.png"
     content: |-
-      I am currently a PhD student at I-X, Imperial College London where I am exploring the use of robotics and AI to empower persons with limited functional independence such as demented patients to live independently in their homes.
+      I am currently a PhD student at I-X, Imperial College London where I am exploring the use of robotics and AI to empower persons with limited functional independence such as persons with dementia to live independently in their homes.
       I completed a bachelor's degree in Computer and Communications engineering, an MSc in Electronic Information Engineering and an MRes in Robotics and Autonomous Systems.
     skills:
       enable: true
