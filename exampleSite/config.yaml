@@ -280,7 +280,6 @@ params:
         content: European Conference on Optical Communication (ECOC) 2022.
         image: /images/achievment.jpg
   
-
   # projects
   projects:
     enable: true
