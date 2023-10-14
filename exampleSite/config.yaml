@@ -237,7 +237,7 @@ params:
           name: "University of Bristol"
           url: "https://example.org"
         date: "2022 - 2023"
-        gpa: "Distinction"
+        GPA: "Distinction"
         content: |-
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -262,7 +262,7 @@ params:
           name: "Technological University Dublin"
           url: "https://example.org"
         date: "2017 - 2021"
-        Gpa: "First Class Honours"
+        GPA: "First Class Honours"
         featuredLink:
           enable: true
           url: "https://example.com"
