@@ -270,7 +270,7 @@ params:
           url: "https://example.com"
 
   # Achievements
-  publications:
+  achievements:
     enable: true
     # title: "Custom Name"
     items:
