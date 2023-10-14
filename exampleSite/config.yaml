@@ -276,9 +276,7 @@ params:
         content: Optical Fibre Technology
         url: https://www.sciencedirect.com/science/article/pii/S1068520023000226
         image: /images/achievment.jpg
-      - title: Optical Signal Spectrum Prediction Using Machine Learning and In-line Channel Monitors in a Multi-span ROADM System
-        content: European Conference on Optical Communication (ECOC) 2022.
-        image: /images/achievment.jpg
+
   
   # projects
   projects:
