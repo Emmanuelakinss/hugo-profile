@@ -272,7 +272,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title:  (INVITED)Reconfigurable topology testbeds: A new approach to optical system experiments
+      - title: Reconfigurable topology testbeds: A new approach to optical system experiments
         content: Optical Fibre Technology
         url: https://www.sciencedirect.com/science/article/pii/S1068520023000226
         image: /images/achievment.jpg
