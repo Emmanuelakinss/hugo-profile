@@ -231,6 +231,15 @@ params:
     # title: "Custom Name"
     index: false
     items:
+      - title: "PhD in Human-Robot Interaction"
+        school:
+          name: "Imperial College London"
+          url: "https://example.org"
+        date: "2023 - 2027"
+        content: |-
+          Extracurricular Activities
+            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
       - title: "Master of Research in Robotics and Autonomous Systems"
         school:
           name: "University of Bristol"
@@ -246,7 +255,7 @@ params:
           name: "Trinity College Dublin"
           url: "https://example.org"
         date: "2021 - 2022"
-        grade: "Distinction"
+        GPA: "Distinction"
         content: |-
           I co-authored two papers in the European Conference on Optical Communication and Optical Fibre Technology journal.
           
@@ -261,7 +270,7 @@ params:
           name: "Technological University Dublin"
           url: "https://example.org"
         date: "2017 - 2021"
-        Grade: "First Class Honours"
+        Gpa: "First Class Honours"
         featuredLink:
           enable: true
           url: "https://example.com"
