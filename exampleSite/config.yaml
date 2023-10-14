@@ -136,9 +136,9 @@ params:
         - icon: fab fa-google-scholar
           url: https://example.com
         - icon: fab fa-linkedin
-          url: https://example.com
+          url: https://www.linkedin.com/in/emmanuel-akinrintoyo/
         - icon: fab fa-github
-          url: https://example.com
+          url: https://github.com/manny118
       #customIcons:
       #  - icon: /fav.png
       #    url: "https://example.com"
