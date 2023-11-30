@@ -216,16 +216,15 @@ params:
       - title: ""
         school:
           name: ""
-          url: "https://www.imperial.ac.uk/"
+          url: ""
         date: ""
         content: |-
           Extracurricular Activities
-            - Robotics academy 
             
       - title: ""
         school:
           name: ""
-          url: "https://www.bristol.ac.uk/"
+          url: ""
         date: ""
         GPA: ""
         content: |-
@@ -265,7 +264,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: In-House Robotics Development
+      - title: I
         content: .
         image: /images/projects/profile.png
         featured:
