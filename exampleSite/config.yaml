@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Emmanuel A."
+title: "E."
 theme: hugo-profile
 
 outputs:
@@ -53,7 +53,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Emmanuel A."
+  title: "E."
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
@@ -117,11 +117,11 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Emmanuel."
-    subtitle: "I develop robots and AI"
-    content: "I am a robotics engineer who is on a mission to use technology to improve the lives and wellbeing of humans. I have gained vast experience in technological design through my studies and industry experience."
-    image: /images/emm22.png
+    intro: "Hi"
+    title: "."
+    subtitle: ""
+    content: ""
+    image: 
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -134,12 +134,12 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-linkedin
-          url: https://www.linkedin.com/in/emmanuel-akinrintoyo/
+          url: 
         - icon: fab fa-github
-          url: https://github.com/manny118
+          url: 
       customIcons:
         - icon: /scholar.png
-          url: "https://scholar.google.com/citations?user=xTBOtfcAAAAJ"
+          url: ""
 
   # About
   about:
@@ -147,72 +147,65 @@ params:
     title: "About Me"
     image: "/images/emm23.png"
     content: |-
-      I am currently a PhD student at I-X, Imperial College London where I am exploring the use of robotics and AI to empower persons with limited functional independence such as persons with dementia to live independently in their homes.
-      I completed a bachelor's degree in Computer and Communications engineering, an MSc in Electronic Information Engineering and an MRes in Robotics and Autonomous Systems.
+      .
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
         - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+
 
   # Experience
   experience:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "PGR Advocate"
-        company: "University of Bristol"
+      - job: ""
+        company: ""
         companyUrl: "https://example.com"
-        date: "Nov 2022 - July 2023"
+        date: ""
         featuredLink:
           enable: true
           name: "View the project"
           url: "https://example.com"
-        content: "I was worked as a research advocate for the Bristol Doctoral College. I helped to develop policies, activities and events to foster diversity and inclusion within the univeristy."
+        content: "."
 
-      - job: "Software Developer Intern"
-        company: "Microsoft"
+      - job: ""
+        company: ""
         companyUrl: "https://example.com"
-        date: "June 2021 - August 2021"
+        date: ""
         featuredLink:
           enable: true
           name: "View the project"
           url: "https://example.com"
-        content: "I interned in the Azure CXP team in Dublin."
+        content: "."
 
-      - job: "Software Developer Intern"
-        company: "SAP"
+      - job: ""
+        company: ""
         companyUrl: "https://example.com"
-        date: "June 2020 - August 2020"
+        date: ""
         #featuredLink:
         #  enable: true
         #  url: "https://example.com"
         info:
           enable: true
-          content: I interned as a software developer.
+          content: .
         content: |
-          I interned as a software developer at the Dublin office. 
-          - Developed features for software applications.
+          I . 
+          - .
           
 
-      - job: "Software Developer Intern"
-        company: "Pramerica Systems"
+      - job: ""
+        company: ""
         companyUrl: "https://example.com"
-        date: "June 2019 - Aug 2019"
+        date: ""
         info:
           enable: false
         featuredLink:
           enable: true
           url: "https://example.com"
         content: |
-          I interned as a software developer at the Donegal office. 
-          - Performed tests on various in-house software applications.
-          - Developed an on-boarding web portal for interns.
+          I 
 
 
   # Education
@@ -221,47 +214,43 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "PhD in Human-Robot Interaction"
+      - title: ""
         school:
-          name: "Imperial College London"
+          name: ""
           url: "https://www.imperial.ac.uk/"
-        date: "2023 - 2027"
+        date: ""
         content: |-
           Extracurricular Activities
             - Robotics academy 
             
-      - title: "Master of Research in Robotics and Autonomous Systems"
+      - title: ""
         school:
-          name: "University of Bristol"
+          name: ""
           url: "https://www.bristol.ac.uk/"
-        date: "2022 - 2023"
-        GPA: "Distinction"
+        date: ""
+        GPA: ""
         content: |-
           Extracurricular Activities
-            - Part of the Bristol AI team that competed in the Formula Student AI competition. 
            
-      - title: "Master of Science in Electronic Information Engineering"
+      - title: ""
         school:
-          name: "Trinity College Dublin"
+          name: ""
           url: "https://example.org"
-        date: "2021 - 2022"
-        GPA: "Distinction"
+        date: ""
+        GPA: ""
         content: |-
-          I co-authored two papers in the European Conference on Optical Communication and Optical Fibre Technology journal.
-          Extracurricular Activities
-            - Member of the entrepreneurship society. 
             
         featuredLink:
           enable: true
-          name: "Course promotion"
-          url: "https://www.youtube.com/watch?v=5MtW3tpd39E"
+          name: ""
+          url: ""
           
-      - title: "BEng in Computer and Communications Engineering"
+      - title: ""
         school:
-          name: "Technological University Dublin"
+          name: ""
           url: "https://example.org"
-        date: "2017 - 2021"
-        GPA: "First Class Honours"
+        date: ""
+        GPA: ""
         featuredLink:
           enable: false
           url: "https://example.com"
@@ -271,22 +260,14 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: (INVITED) Reconfigurable topology testbeds A new approach to optical system experiments
-        content: Optical Fibre Technology
-        url: https://www.sciencedirect.com/science/article/pii/S1068520023000226
-        image: /images/achievment.jpg
-      - title: Optical Signal Spectrum Prediction Using Machine Learning and In-line Channel Monitors in a Multi-span ROADM System
-        content: European Conference on Optical Communication (ECOC) 2022
-        url: https://opg.optica.org/abstract.cfm?uri=ECEOC-2022-We3B.5
-        image: /images/achievment.jpg
-  
+
   # projects
   projects:
     enable: true
     # title: "Custom Name"
     items:
       - title: In-House Robotics Development
-        content: My PhD project involves the development of an in-house robotic system to aid persons with dementia to live independently.
+        content: .
         image: /images/projects/profile.png
         featured:
           name: Demo
@@ -303,32 +284,6 @@ params:
           - icon: fab fa-twitter
             url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-      - title: IoRT-Based Ambient Assisted Living
-        content: Developed an Ambient Assisted Living environment with IoT devices and sensors with a robot as the figurehead.
-        image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
-        badges:
-          - "Django"
-          - "Bootstrap"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
-
-      - title: Digital Twin Modelling of an Optical Line System
-        content: Developed a digital twin of an optical line using machine learning.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
-        badges:
-          - "Python"
-          - "Machine Learning"
-          - "Optical Comms"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
 
   #Contact
   contact:
@@ -351,8 +306,8 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com/manny118
-      linkedin: https://www.linkedin.com/in/emmanuel-akinrintoyo/
+      github: 
+      linkedin: 
       twitter: https://twitter.com
       instagram: https://instagram.com
       facebook: https://facebook.com
